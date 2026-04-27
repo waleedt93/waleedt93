@@ -93,7 +93,27 @@ const waleed = {
 
 ### 🛠️ Languages & Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="36" height="36"/>&nbsp;<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" alt="HubSpot" height="36"/>&nbsp;<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="36"/>&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white" alt="Replit" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Lovable-FF69B4?style=flat&logoColor=white" alt="Lovable" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" alt="Twilio" height="36"/>&nbsp;<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white" alt="ElevenLabs" height="36"/>&nbsp;<img src="https://img.shields.io/badge/VAPI-5B4CDB?style=flat&logoColor=white" alt="VAPI" height="36"/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=flat&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-5B4CDB?style=flat&logoColor=white)
 
 ---
 
@@ -105,7 +125,7 @@ const waleed = {
 📄 **1,000+** page marketing website owned with zero downtime  
 🔒 **Zero** security incidents in 5 years  
 ⏱️ **3 days → 15 mins** page creation time via AI content placer  
-🌍 **3 global markets** served via multilingual/multi-regional rollouts  
+🌍 **7 global markets** served via multilingual/multi-regional rollouts  
 
 ---
 
@@ -125,7 +145,7 @@ const waleed = {
 
 > Remote-first Senior or Staff-level roles where I can own the web platform & MarTech stack for a growth-stage SaaS company — somewhere engineering and marketing actually talk to each other.
 
-**Open to:** AI Automation Engineer · GTM Engineer - MarTech Engineer · Web Platform Engineer · Growth Engineer
+**Open to:** AI Automation Engineer · MarTech Engineer · Web Platform Engineer · Growth Engineer
 
 📧 **waleedt93@gmail.com** · 🔗 [linkedin.com/in/waleed-tariq-wt](https://www.linkedin.com/in/waleed-tariq-wt/)
 
