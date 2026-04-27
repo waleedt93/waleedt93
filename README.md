@@ -9,7 +9,7 @@
 
 <!-- Badges -->
 
-[![LinkedIn](https://img.shields.io/badge/-Waleed%20Tariq-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/waleed-tariq-wt/)
+[![LinkedIn](https://img.shields.io/badge/-Waleed%20Tariq-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-tariq-wt/)
 [![Twitter](https://img.shields.io/twitter/follow/waleedtariq94?style=social)](https://twitter.com/waleedtariq94)
 [![Email](https://img.shields.io/badge/-waleedt93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:waleedt93@gmail.com)
 [![WordPress](https://img.shields.io/badge/-WP%20Core%20Contributor-21759B?style=flat-square&logo=WordPress&logoColor=white)](https://profiles.wordpress.org/waleedt93/)
@@ -93,26 +93,11 @@ const waleed = {
 
 ### 🛠️ Languages & Tools
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="36" height="36"/>&nbsp;<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" alt="HubSpot" height="36"/>&nbsp;<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="36"/>&nbsp;<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white" alt="Replit" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Lovable-FF69B4?style=flat&logoColor=white" alt="Lovable" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" alt="Twilio" height="36"/>&nbsp;<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white" alt="ElevenLabs" height="36"/>&nbsp;<img src="https://img.shields.io/badge/VAPI-5B4CDB?style=flat&logoColor=white" alt="VAPI" height="36"/>
 
 ---
 
 ### 📊 Wins by the Numbers
-
-<div align="center">
 
 🏅 **~$800K USD** revenue from AI chatbot I built (2025)  
 📈 **99%** Ahrefs site audit score achieved  
@@ -121,8 +106,6 @@ const waleed = {
 🔒 **Zero** security incidents in 5 years  
 ⏱️ **3 days → 15 mins** page creation time via AI content placer  
 🌍 **3 global markets** served via multilingual/multi-regional rollouts  
-
-</div>
 
 ---
 
@@ -142,7 +125,7 @@ const waleed = {
 
 > Remote-first Senior or Staff-level roles where I can own the web platform & MarTech stack for a growth-stage SaaS company — somewhere engineering and marketing actually talk to each other.
 
-**Open to:** AI Automation Engineer · MarTech Engineer · Web Platform Engineer · Growth Engineer
+**Open to:** AI Automation Engineer · GTM Engineer - MarTech Engineer · Web Platform Engineer · Growth Engineer
 
 📧 **waleedt93@gmail.com** · 🔗 [linkedin.com/in/waleed-tariq-wt](https://www.linkedin.com/in/waleed-tariq-wt/)
 
