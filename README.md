@@ -10,6 +10,7 @@
 <!-- Badges -->
 
 [![LinkedIn](https://img.shields.io/badge/-Waleed%20Tariq-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-tariq-wt/)
+[![Portfolio](https://img.shields.io/badge/-waleed--tariq.lovable.app-1a5fb4?style=flat-square&logo=google-chrome&logoColor=white)](https://waleed-tariq.lovable.app)
 [![Twitter](https://img.shields.io/twitter/follow/waleedtariq94?style=social)](https://twitter.com/waleedtariq94)
 [![Email](https://img.shields.io/badge/-waleedt93@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:waleedt93@gmail.com)
 [![WordPress](https://img.shields.io/badge/-WP%20Core%20Contributor-21759B?style=flat-square&logo=WordPress&logoColor=white)](https://profiles.wordpress.org/waleedt93/)
@@ -151,6 +152,7 @@ const waleed = {
 
 **Open to:** AI Automation Engineer · MarTech Engineer · Web Platform Engineer · Growth Engineer
 
+🌐 **Portfolio:** [waleed-tariq.lovable.app](https://waleed-tariq.lovable.app)  
 📧 **waleedt93@gmail.com** · 🔗 [linkedin.com/in/waleed-tariq-wt](https://www.linkedin.com/in/waleed-tariq-wt/)
 
 ---
